@@ -2,6 +2,7 @@
 {
     'use strict';
 
+    //código pra deletar o produto
     function confirmDel(event)
     {
         event.preventDefault();

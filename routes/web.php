@@ -13,4 +13,5 @@ use App\Http\Controllers\BookController;
 |
 */
 
+//definição da rota
 Route::resource('/products', BookController::class);
